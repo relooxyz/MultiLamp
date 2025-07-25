@@ -51,4 +51,4 @@ This Arduino-based project enables environmental monitoring and IR-based applian
 
 ## License
 
-MIT License (you may specify another if preferred)
+Unlicense (Feel free to reuse this code in any way preferred)
